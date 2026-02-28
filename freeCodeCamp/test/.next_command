@@ -175,3 +175,5 @@ clear
 ls --color=auto
 ls --color=auto --all
 cd .
+tocuh background.jpg
+touch background.jpg
