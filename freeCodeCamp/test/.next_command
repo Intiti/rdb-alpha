@@ -71,3 +71,4 @@ cdw
 cwd
 pwd
 ls --color=auto
+more index.js
