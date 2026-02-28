@@ -46,3 +46,4 @@ cd /workspace/freeCodeCamp
 cd freeCodeCamp
 pwd
 ls --color=auto
+cd test
