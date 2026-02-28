@@ -67,3 +67,6 @@ clear
 __vsc_prompt_cmd_original
 ls --color=auto
 cd src
+cdw
+cwd
+pwd
