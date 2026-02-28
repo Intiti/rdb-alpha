@@ -45,3 +45,4 @@ cd /workspace/project
 cd /workspace/freeCodeCamp
 cd freeCodeCamp
 pwd
+ls --color=auto
