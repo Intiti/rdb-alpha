@@ -171,3 +171,6 @@ touch .gitignore
 ls --color=auto
 command --help
 ls --color=auto --help
+clear
+ls --color=auto
+ls --color=auto --all
