@@ -70,3 +70,4 @@ cd src
 cdw
 cwd
 pwd
+ls --color=auto
